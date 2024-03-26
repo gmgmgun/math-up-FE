@@ -21,7 +21,7 @@
 
 ## 파일 스테이징
 
-[](https://raw.githubusercontent.com/gmgmgun/github-user-content/math-up/pdf-staging1-ezgif.com-video-to-gif-converter.gif)
+[ezgif com-video-to-gif](https://raw.githubusercontent.com/gmgmgun/github-user-content/math-up/pdf-staging1-ezgif.com-video-to-gif-converter.gif)
 
 1. 파일 시스템 또는 드래그 앤 드롭으로 파일을 스테이징하도록 구현
 2. pdf 외 다른 유형의 파일이 선택된 경우 알림창을 띄우고 이를 제외하고 스테이징하도록 구현
