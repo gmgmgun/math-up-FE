@@ -2,7 +2,7 @@
 
 ## 수학 문제지를 체계적으로 관리하자! **수학 문제지 업로더 ‘매스업’**
 
-![](https://raw.githubusercontent.com/gmgmgun/github-user-content/main/math-up/스크린샷 2023-05-08 오후 6.55.42.png)
+![](https://raw.githubusercontent.com/gmgmgun/github-user-content/main/math-up/math-up/main.png)
 
 🚀 **프로젝트 소개**
 
