@@ -29,7 +29,7 @@
 
 ## 파일 업로드
 
-[pdf-upload.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b83f092-85e5-42c2-8269-33975f7f4a3a/pdf-upload.mp4)
+![](https://raw.githubusercontent.com/gmgmgun/github-user-content/main/math-up/pdf-upload1-ezgif.com-video-to-gif-converter.gif)
 
 1. 드롭박스 메뉴를 선택할 때 키보드 이벤트와 상호작용하도록 구현
 2. 학교명 드롭박스의 경우 가짓수가 많아 자동완성 기능을 사용
